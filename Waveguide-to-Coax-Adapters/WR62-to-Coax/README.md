@@ -19,13 +19,6 @@ The design uses a right-angle coaxial-to-waveguide transition together with a fl
 - **Transition Type:** Right Angle
 - **Main Performance Parameters:** S11, S21 and VSWR
 
-## Materials
-
-- **Waveguide Structure:** Metallic conducting structure
-- **Connector Structure:** SMA coaxial connector
-- **Internal Region:** Air / vacuum
-- **Simulation Environment:** CST Studio Suite
-
 ## WR62 Waveguide Geometry
 
 <img src="wr62_geometry.png" width="50%">
