@@ -28,7 +28,7 @@ The design uses a right-angle coaxial-to-waveguide transition together with a hi
 
 ## WR51 Waveguide Geometry
 
-<img src="wr51_geometry.png" width="100%">
+<img src="wr51_geometry.png" width="50%">
 
 ## 2.92 mm Connector Geometry
 
