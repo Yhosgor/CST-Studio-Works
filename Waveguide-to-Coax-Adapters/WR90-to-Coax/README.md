@@ -15,7 +15,7 @@ The design includes a flange-mounted SMA connector and its detailed mechanical g
 - **Waveguide Standard:** WR90
 - **Coaxial Interface:** SMA
 - **Connector Type:** 4-Hole Flange SMA Connector
-- **Transition Type:** Coaxial Probe to Rectangular Waveguide
+- **Transition Type:** Right Angle
 - **Main Performance Parameters:** S11, S21 and VSWR
 - **Dominant Waveguide Mode:** TE10
 
