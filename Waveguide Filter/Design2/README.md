@@ -8,8 +8,6 @@ The filter is implemented using WR42 rectangular waveguide ports and is designed
 
 The target RX passband is 17.7–21.2 GHz, while the target TX rejection band is 27.5–31 GHz. The design therefore acts as a low-pass waveguide filter that separates the lower-frequency K-band receive region from the higher-frequency Ka-band transmit region.
 
-The electromagnetic performance was evaluated using full-wave S-parameter simulations, with particular emphasis on passband matching, transmission performance and stopband rejection.
-
 ## Key Features
 
 - **Simulation Tool:** CST Studio Suite
