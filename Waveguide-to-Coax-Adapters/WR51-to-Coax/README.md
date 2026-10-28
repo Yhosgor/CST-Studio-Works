@@ -19,13 +19,6 @@ The design uses a right-angle coaxial-to-waveguide transition together with a hi
 - **Transition Type:** Right Angle
 - **Main Performance Parameters:** S11, S21 and VSWR
 
-## Materials
-
-- **Waveguide Structure:** Metallic conducting structure
-- **Connector Structure:** 2.92 mm coaxial connector
-- **Internal Region:** Air / vacuum
-- **Simulation Environment:** CST Studio Suite
-
 ## WR51 Waveguide Geometry
 
 <img src="wr51_geometry.png" width="50%">
