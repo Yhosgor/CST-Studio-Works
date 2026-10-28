@@ -20,7 +20,7 @@ The iris sections introduce controlled reactive discontinuities inside the waveg
 
 ## Filter Geometry
 
-<img src="filter_geometry.png" width="100%">
+<img src="filter_geometry.png" width="50%">
 
 ## S-Parameters
 
