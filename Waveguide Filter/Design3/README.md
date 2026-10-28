@@ -13,6 +13,7 @@ This type of waveguide filter can be used in satellite communication, radar and 
 - **Simulation Tool:** CST Studio Suite
 - **Component Type:** Low-Pass Waveguide Filter
 - **Operating Region:** X–Ku Band
+-  **Waveguide Standard:** WR75
 - **Approximate Passband:** 8.1–10.8 GHz
 - **Approximate Stopband:** 12–16 GHz
 - **Main Performance Parameters:** S11 and S21
