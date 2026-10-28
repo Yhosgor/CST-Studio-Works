@@ -19,13 +19,6 @@ The design includes a flange-mounted SMA connector and its detailed mechanical g
 - **Main Performance Parameters:** S11, S21 and VSWR
 - **Dominant Waveguide Mode:** TE10
 
-## Materials
-
-- **Waveguide Structure:** Metallic conducting structure
-- **Connector Structure:** SMA coaxial connector
-- **Surrounding Medium:** Air / vacuum inside the waveguide
-- **Simulation Environment:** CST Studio Suite
-
 ## Waveguide Geometry
 
 <img src="wr90_geometry.png" width="50%">
