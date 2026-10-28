@@ -19,7 +19,6 @@ The electromagnetic performance was evaluated using full-wave S-parameter simula
 - **RX Passband:** K-Band / 17.7–21.2 GHz
 - **TX Rejection Band:** Ka Band / 27.5–31 GHz
 - **Main Performance Parameters:** S11 and S21
-- **Simulation Method:** Full-Wave Electromagnetic Analysis
 
 ## Filter Geometry
 
