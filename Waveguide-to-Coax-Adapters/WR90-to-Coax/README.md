@@ -28,7 +28,7 @@ The design includes a flange-mounted SMA connector and its detailed mechanical g
 
 ## Waveguide Geometry
 
-<img src="wr90_geometry.png" width="100%">
+<img src="wr90_geometry.png" width="50%">
 
 ## Connector Geometry
 
