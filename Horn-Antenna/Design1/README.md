@@ -27,7 +27,7 @@ The antenna performance was evaluated using reflection coefficient, VSWR, realiz
 
 ## Antenna Geometry
 
-<img src="horn_geometry.png" width="100%">
+<img src="horn_geometry.png" width="50%">
 
 ## Reflection Coefficient
 
