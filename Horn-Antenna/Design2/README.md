@@ -54,7 +54,7 @@ The antenna performance was evaluated using S-parameters, VSWR, realized gain, f
 
 #### E-Plane
 
-<img src="farfield (f=4.6) [1]_E-Plane.png" width="100%">
+<img src="farfield (f=4.6) [1]_E-Plane" width="100%">
 
 #### H-Plane
 
@@ -144,11 +144,11 @@ The antenna performance was evaluated using S-parameters, VSWR, realized gain, f
 
 #### E-Plane
 
-<img src="farfield (f=7.0)_E-Plane.png" width="100%">
+<img src="farfield (f=7)_E-Plane" width="100%">
 
 #### H-Plane
 
-<img src="farfield (f=7.0)_H-Plane.png" width="100%">
+<img src="farfield (f=7)_H-Plane" width="100%">
 
 #### 3D Radiation Pattern
 
