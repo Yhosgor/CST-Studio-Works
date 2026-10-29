@@ -1,4 +1,4 @@
-# Waveguide Iris Polarizer
+# K/Ka Band Waveguide Iris Polarizer
 
 ## Overview
 
