@@ -34,6 +34,14 @@ Particular attention was given to maintaining stable directional radiation chara
 
 <img src="VSWR.png" width="100%">
 
+## Realized Gain
+
+<img src="Realized Gain.png" width="100%">
+
+## Front-to-Back Ratio
+
+<img src="Front to Back Ratio.png" width="100%">
+
 ## Radiation Patterns
 
 ### 13 GHz
