@@ -57,7 +57,7 @@ The polarizer performance was evaluated in terms of return loss, insertion loss,
 
 ## Insertion Loss
 
-### Port 3 Insertion Loss
+### Transmission Coefficients – Common Port to Orthogonal Ports
 
 <img src="Port3_InsertionLoss.png" width="100%">
 
