@@ -19,7 +19,6 @@ The antenna performance was evaluated using S-parameters, VSWR, realized gain, E
 - **Polarization:** Linear
 - **Radiation Characteristic:** Hemi-Omnidirectional
 - **Target VSWR:** Below 1.3:1 across 1550–1620 MHz
-- **Optimization Focus:** Broadband impedance matching and stable hemispherical coverage
 - **Main Performance Parameters:** S-parameters, VSWR, realized gain, beamwidth and radiation patterns
 - **Radiation Pattern Evaluation Frequencies:** 1550 MHz and 1620 MHz
 - **Analyzed Planes:** E-Plane and H-Plane
