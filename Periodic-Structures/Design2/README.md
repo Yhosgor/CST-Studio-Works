@@ -37,8 +37,3 @@ This wide stopband makes the periodic pin structure suitable for high-frequency 
 
 <img src="Dispersion Diagram.png" width="100%">
 
-## Electromagnetic Bandgap Region
-
-The dispersion analysis shows an approximate electromagnetic bandgap between **20 GHz and 69 GHz**, where no propagating eigenmodes are observed in the calculated modal spectrum.
-
-This bandgap represents the operating region in which the periodic pin structure behaves as an electromagnetic stopband surface and can be used to confine propagation within a groove gap waveguide structure.
