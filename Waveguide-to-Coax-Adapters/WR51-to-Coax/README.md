@@ -46,4 +46,4 @@ The design uses a right-angle coaxial-to-waveguide transition together with a hi
 
 ## VSWR
 
-<img src="VSWR1.png" width="100%">
+<img src="VSWR.png" width="100%">
