@@ -15,7 +15,7 @@ Eigenmode analysis was performed using periodic boundary conditions, and the res
 - **Application:** Groove Gap Waveguide
 - **Analysis Method:** Eigenmode / Dispersion Analysis
 - **Approximate EBG Region:** 10–19.5 GHz
-- **Displayed Eigenmodes:** First ten modes
+- **Displayed Eigenmodes:** First 10 modes
 
 ## Unit Cell Geometry
 
