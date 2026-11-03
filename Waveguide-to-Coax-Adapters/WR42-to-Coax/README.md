@@ -21,7 +21,7 @@ The design uses a right-angle coaxial-to-waveguide transition together with a hi
 
 ## Adapter Geometry
 
-<img src="adapter_geometry.png" width="100%">
+<img src="adapter_geometry.png" width="50%">
 
 ## 2.92 mm Connector Geometry
 
